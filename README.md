@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srikanth Macha</h1>
 <h3 align="center">An Enthusiast, exploring the Programming World !!!</h3>
 
-- 🔭 I’m currently working on **some Projects of different varieties in Android Apps**
+- 🔭 I’m currently building **some Projects of different varieties in Android Apps**
 
 - 🌱 I’m currently learning **Native Android Development**
 
