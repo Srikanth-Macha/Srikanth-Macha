@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Native Android Development**
 
-- 💬 Ask me about **Java, C, SDK, Android Studio Framework**
+- 💬 Ask me about **Java, Kotlin, C, Android Studio**
 
 - 📫 How to reach me **srikanthmacha32@gmail.com**
 
